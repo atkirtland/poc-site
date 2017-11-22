@@ -2822,7 +2822,7 @@
 		}
 
 			#header h1 a {
-				color: #fff;
+				color: #000;
 				font-weight: 400;
 				border: 0;
 			}
@@ -2860,7 +2860,7 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: #000;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
